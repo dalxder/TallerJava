@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author dalxder
  * email dalxder@gmail.com
- * Lincense: LGPL v3
+ * License: LGPL v3
  * 2017
  */
 public class TallerJava {
